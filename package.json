@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/haoyanming/react-native-mango-image.git"
@@ -15,5 +15,9 @@
   "dependencies": {
     "react-native-gesture-responder": "0.1.1",
     "react-native-scroller": "0.0.6"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/haoyanming/react-native-mango-image/issues"
+  },
+  "homepage": "https://github.com/haoyanming/react-native-mango-image#readme"
 }

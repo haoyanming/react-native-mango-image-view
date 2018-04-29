@@ -19,8 +19,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,8 +47,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="416" />
-    <option name="y" value="255" />
+    <option name="x" value="497" />
+    <option name="y" value="384" />
     <option name="width" value="1884" />
     <option name="height" value="914" />
   </component>
@@ -110,15 +110,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524969955957</updated>
-      <workItem from="1524969957197" duration="91000" />
+      <workItem from="1524969957197" duration="1342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91000" />
+    <option name="totallyTimeSpent" value="1342000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="416" y="255" width="1884" height="914" extended-state="0" />
+    <frame x="497" y="384" width="1884" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -153,8 +153,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
